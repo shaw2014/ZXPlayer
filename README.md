@@ -3,7 +3,7 @@
 
 
 ## 使用方法：
-  '#import "ZXVideoPlayerViewController.h"'
-  初始化'ZXVideoPlayerViewController'
-  'ZXVideoPlayerViewController *videoVC = [[ZXVideoPlayerViewController alloc]init];'
-  指定视频url：videoVC.videoUrl
+* `#import "ZXVideoPlayerViewController.h"`
+* 初始化`ZXVideoPlayerViewController`
+* `ZXVideoPlayerViewController *videoVC = [[ZXVideoPlayerViewController alloc]init];`
+* 指定视频url：`videoVC.videoUrl`
